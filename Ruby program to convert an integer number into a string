@@ -1,0 +1,7 @@
+# Ruby program to convert an 
+# integer number into string
+
+num = 10;
+result = num.to_s();  
+
+print "String: ",result;
